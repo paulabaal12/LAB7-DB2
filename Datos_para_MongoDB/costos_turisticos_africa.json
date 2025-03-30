@@ -5,7 +5,7 @@
         "país": "Sudáfrica",
         "capital": "Pretoria",
         "población": 59308690,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 21,
                 "precio_promedio_usd": 30,
@@ -34,7 +34,7 @@
         "país": "Nigeria",
         "capital": "Abuja",
         "población": 206139589,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 41,
@@ -63,7 +63,7 @@
         "país": "Egipto",
         "capital": "El Cairo",
         "población": 102334404,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 26,
                 "precio_promedio_usd": 38,
@@ -92,7 +92,7 @@
         "país": "Kenia",
         "capital": "Nairobi",
         "población": 53771296,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 29,
                 "precio_promedio_usd": 42,
@@ -121,7 +121,7 @@
         "país": "Marruecos",
         "capital": "Rabat",
         "población": 36910560,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 20,
                 "precio_promedio_usd": 29,
@@ -150,7 +150,7 @@
         "país": "Argelia",
         "capital": "Argel",
         "población": 43851044,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 31,
                 "precio_promedio_usd": 45,
@@ -179,7 +179,7 @@
         "país": "Etiopía",
         "capital": "Adís Abeba",
         "población": 114963588,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 24,
@@ -208,7 +208,7 @@
         "país": "Ghana",
         "capital": "Accra",
         "población": 31072940,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 19,
                 "precio_promedio_usd": 28,
@@ -237,7 +237,7 @@
         "país": "Tanzania",
         "capital": "Dodoma",
         "población": 59734218,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 11,
                 "precio_promedio_usd": 16,
@@ -266,7 +266,7 @@
         "país": "Senegal",
         "capital": "Dakar",
         "población": 16743927,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 23,
                 "precio_promedio_usd": 34,
@@ -295,7 +295,7 @@
         "país": "Túnez",
         "capital": "Túnez",
         "población": 11818619,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 18,
                 "precio_promedio_usd": 26,
@@ -324,7 +324,7 @@
         "país": "Uganda",
         "capital": "Kampala",
         "población": 45741007,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 23,
@@ -353,7 +353,7 @@
         "país": "Zambia",
         "capital": "Lusaka",
         "población": 18383955,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 13,
                 "precio_promedio_usd": 19,
@@ -382,7 +382,7 @@
         "país": "Mozambique",
         "capital": "Maputo",
         "población": 31255435,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 9,
                 "precio_promedio_usd": 14,
@@ -411,7 +411,7 @@
         "país": "Camerún",
         "capital": "Yaundé",
         "población": 26545863,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 9,
                 "precio_promedio_usd": 13,
@@ -440,7 +440,7 @@
         "país": "Angola",
         "capital": "Luanda",
         "población": 32866272,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 9,
                 "precio_promedio_usd": 13,
@@ -469,7 +469,7 @@
         "país": "Costa de Marfil",
         "capital": "Yamusukro",
         "población": 26378274,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 20,
                 "precio_promedio_usd": 29,
@@ -498,7 +498,7 @@
         "país": "Malí",
         "capital": "Bamako",
         "población": 20250833,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 41,
@@ -527,7 +527,7 @@
         "país": "Ruanda",
         "capital": "Kigali",
         "población": 12952218,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 7,
                 "precio_promedio_usd": 11,
@@ -556,7 +556,7 @@
         "país": "Namibia",
         "capital": "Windhoek",
         "población": 2540905,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 8,
                 "precio_promedio_usd": 12,

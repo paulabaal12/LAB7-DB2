@@ -5,7 +5,7 @@
         "país": "Estados Unidos",
         "capital": "Washington D. C.",
         "población": 331002651,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 23,
                 "precio_promedio_usd": 33,
@@ -34,7 +34,7 @@
         "país": "Canadá",
         "capital": "Ottawa",
         "población": 37742154,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 49,
                 "precio_promedio_usd": 71,
@@ -63,7 +63,7 @@
         "país": "México",
         "capital": "Ciudad de México",
         "población": 128932753,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 46,
                 "precio_promedio_usd": 67,
@@ -92,7 +92,7 @@
         "país": "Guatemala",
         "capital": "Ciudad de Guatemala",
         "población": 17915568,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 14,
                 "precio_promedio_usd": 21,
@@ -121,7 +121,7 @@
         "país": "El Salvador",
         "capital": "San Salvador",
         "población": 6486205,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 40,
@@ -150,7 +150,7 @@
         "país": "Honduras",
         "capital": "Tegucigalpa",
         "población": 9904608,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 42,
                 "precio_promedio_usd": 60,
@@ -179,7 +179,7 @@
         "país": "Costa Rica",
         "capital": "San José",
         "población": 5094118,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 24,
@@ -208,7 +208,7 @@
         "país": "Panamá",
         "capital": "Ciudad de Panamá",
         "población": 4314767,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 30,
                 "precio_promedio_usd": 44,
@@ -237,7 +237,7 @@
         "país": "Cuba",
         "capital": "La Habana",
         "población": 11326616,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 40,
@@ -266,7 +266,7 @@
         "país": "República Dominicana",
         "capital": "Santo Domingo",
         "población": 10847910,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 37,
                 "precio_promedio_usd": 53,
@@ -295,7 +295,7 @@
         "país": "Colombia",
         "capital": "Bogotá",
         "población": 50882891,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 20,
                 "precio_promedio_usd": 29,
@@ -324,7 +324,7 @@
         "país": "Venezuela",
         "capital": "Caracas",
         "población": 28435940,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 18,
                 "precio_promedio_usd": 27,
@@ -353,7 +353,7 @@
         "país": "Ecuador",
         "capital": "Quito",
         "población": 17643060,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 31,
                 "precio_promedio_usd": 45,
@@ -382,7 +382,7 @@
         "país": "Perú",
         "capital": "Lima",
         "población": 32971854,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 23,
@@ -411,7 +411,7 @@
         "país": "Bolivia",
         "capital": "La Paz",
         "población": 11673029,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39,
                 "precio_promedio_usd": 56,
@@ -440,7 +440,7 @@
         "país": "Paraguay",
         "capital": "Asunción",
         "población": 7132530,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 24,
@@ -469,7 +469,7 @@
         "país": "Uruguay",
         "capital": "Montevideo",
         "población": 3473730,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 27,
                 "precio_promedio_usd": 39,
@@ -498,7 +498,7 @@
         "país": "Argentina",
         "capital": "Buenos Aires",
         "población": 45195774,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 40,
@@ -527,7 +527,7 @@
         "país": "Chile",
         "capital": "Santiago",
         "población": 19116201,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39,
                 "precio_promedio_usd": 57,
@@ -556,7 +556,7 @@
         "país": "Brasil",
         "capital": "Brasilia",
         "población": 212559417,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 37,
                 "precio_promedio_usd": 53,

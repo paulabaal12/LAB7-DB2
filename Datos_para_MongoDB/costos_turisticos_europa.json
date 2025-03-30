@@ -5,7 +5,7 @@
         "país": "Albania",
         "capital": "Tirana",
         "población": 2877797,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 58.32,
                 "precio_promedio_usd": 84.24,
@@ -34,7 +34,7 @@
         "país": "Andorra",
         "capital": "Andorra la Vella",
         "población": 79824,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24.84,
                 "precio_promedio_usd": 36.72,
@@ -63,7 +63,7 @@
         "país": "Austria",
         "capital": "Vienna",
         "población": 8917205,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 37.8,
                 "precio_promedio_usd": 55.08,
@@ -92,7 +92,7 @@
         "país": "Belarus",
         "capital": "Minsk",
         "población": 9398861,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 34.56,
                 "precio_promedio_usd": 49.68,
@@ -121,7 +121,7 @@
         "país": "Belgium",
         "capital": "Brussels",
         "población": 11589623,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 55.08,
                 "precio_promedio_usd": 78.84,
@@ -150,7 +150,7 @@
         "país": "Bosnia and Herzegovina",
         "capital": "Sarajevo",
         "población": 3280819,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 55.08,
                 "precio_promedio_usd": 78.84,
@@ -179,7 +179,7 @@
         "país": "Bulgaria",
         "capital": "Sofia",
         "población": 6844597,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 58.32,
                 "precio_promedio_usd": 84.24,
@@ -208,7 +208,7 @@
         "país": "Croatia",
         "capital": "Zagreb",
         "población": 3854279,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 43.2,
                 "precio_promedio_usd": 62.64,
@@ -237,7 +237,7 @@
         "país": "Cyprus",
         "capital": "Nicosia",
         "población": 1207359,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39.96,
                 "precio_promedio_usd": 58.32,
@@ -266,7 +266,7 @@
         "país": "Czech Republic",
         "capital": "Prague",
         "población": 10708981,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24.84,
                 "precio_promedio_usd": 35.64,
@@ -295,7 +295,7 @@
         "país": "Denmark",
         "capital": "Copenhagen",
         "población": 5831404,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24.84,
                 "precio_promedio_usd": 35.64,
@@ -324,7 +324,7 @@
         "país": "Estonia",
         "capital": "Tallinn",
         "población": 1326535,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 51.84,
                 "precio_promedio_usd": 74.52,
@@ -353,7 +353,7 @@
         "país": "Finland",
         "capital": "Helsinki",
         "población": 5540720,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 56.16,
                 "precio_promedio_usd": 81.0,
@@ -382,7 +382,7 @@
         "país": "France",
         "capital": "Paris",
         "población": 67391582,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 45.36,
                 "precio_promedio_usd": 64.8,
@@ -411,7 +411,7 @@
         "país": "Germany",
         "capital": "Berlin",
         "población": 83149300,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 48.6,
                 "precio_promedio_usd": 70.2,
@@ -440,7 +440,7 @@
         "país": "Greece",
         "capital": "Athens",
         "población": 10724599,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 32.4,
                 "precio_promedio_usd": 46.44,
@@ -469,7 +469,7 @@
         "país": "Hungary",
         "capital": "Budapest",
         "población": 9606259,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 45.36,
                 "precio_promedio_usd": 65.88,
@@ -498,7 +498,7 @@
         "país": "Iceland",
         "capital": "Reykjavik",
         "población": 372520,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39.96,
                 "precio_promedio_usd": 58.32,
@@ -527,7 +527,7 @@
         "país": "Ireland",
         "capital": "Dublin",
         "población": 4994724,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 59.4,
                 "precio_promedio_usd": 85.32,
@@ -556,7 +556,7 @@
         "país": "Italy",
         "capital": "Rome",
         "población": 59554023,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 41.04,
                 "precio_promedio_usd": 59.4,
@@ -585,7 +585,7 @@
         "país": "Kosovo",
         "capital": "Pristina",
         "población": 1800000,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 52.92,
                 "precio_promedio_usd": 76.68,
@@ -614,7 +614,7 @@
         "país": "Latvia",
         "capital": "Riga",
         "población": 1867231,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 47.52,
                 "precio_promedio_usd": 68.04,
@@ -643,7 +643,7 @@
         "país": "Liechtenstein",
         "capital": "Vaduz",
         "población": 38910,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 32.4,
                 "precio_promedio_usd": 47.52,
@@ -672,7 +672,7 @@
         "país": "Lithuania",
         "capital": "Vilnius",
         "población": 2794700,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39.96,
                 "precio_promedio_usd": 57.24,
@@ -701,7 +701,7 @@
         "país": "Luxembourg",
         "capital": "Luxembourg",
         "población": 634814,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 20.52,
                 "precio_promedio_usd": 30.24,
@@ -730,7 +730,7 @@
         "país": "Malta",
         "capital": "Valletta",
         "población": 514564,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 36.72,
                 "precio_promedio_usd": 52.92,
@@ -759,7 +759,7 @@
         "país": "Moldova",
         "capital": "Chișinău",
         "población": 2640438,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 22.68,
                 "precio_promedio_usd": 32.4,
@@ -788,7 +788,7 @@
         "país": "Monaco",
         "capital": "Monaco",
         "población": 39242,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39.96,
                 "precio_promedio_usd": 57.24,
@@ -817,7 +817,7 @@
         "país": "Montenegro",
         "capital": "Podgorica",
         "población": 621718,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 50.76,
                 "precio_promedio_usd": 73.44,
@@ -846,7 +846,7 @@
         "país": "Netherlands",
         "capital": "Amsterdam",
         "población": 17441139,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 59.4,
                 "precio_promedio_usd": 85.32,
@@ -875,7 +875,7 @@
         "país": "North Macedonia",
         "capital": "Skopje",
         "población": 2083821,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 44.28,
                 "precio_promedio_usd": 63.72,
@@ -904,7 +904,7 @@
         "país": "Norway",
         "capital": "Oslo",
         "población": 5421241,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 65.88,
                 "precio_promedio_usd": 95.04,
@@ -933,7 +933,7 @@
         "país": "Poland",
         "capital": "Warsaw",
         "población": 38386000,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 35.64,
                 "precio_promedio_usd": 51.84,
@@ -962,7 +962,7 @@
         "país": "Portugal",
         "capital": "Lisbon",
         "población": 10295909,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 32.4,
                 "precio_promedio_usd": 47.52,
@@ -991,7 +991,7 @@
         "país": "Romania",
         "capital": "Bucharest",
         "población": 19121610,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28.08,
                 "precio_promedio_usd": 41.04,
@@ -1020,7 +1020,7 @@
         "país": "Russia",
         "capital": "Moscow",
         "población": 144104080,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 55.08,
                 "precio_promedio_usd": 78.84,
@@ -1049,7 +1049,7 @@
         "país": "San Marino",
         "capital": "San Marino",
         "población": 33938,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 22.68,
                 "precio_promedio_usd": 33.48,
@@ -1078,7 +1078,7 @@
         "país": "Serbia",
         "capital": "Belgrade",
         "población": 6640000,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 32.4,
                 "precio_promedio_usd": 47.52,
@@ -1107,7 +1107,7 @@
         "país": "Slovakia",
         "capital": "Bratislava",
         "población": 5458827,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 35.64,
                 "precio_promedio_usd": 51.84,
@@ -1136,7 +1136,7 @@
         "país": "Slovenia",
         "capital": "Ljubljana",
         "población": 2100126,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24.84,
                 "precio_promedio_usd": 35.64,
@@ -1165,7 +1165,7 @@
         "país": "Spain",
         "capital": "Madrid",
         "población": 47351567,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 29.16,
                 "precio_promedio_usd": 42.12,
@@ -1194,7 +1194,7 @@
         "país": "Sweden",
         "capital": "Stockholm",
         "población": 10327589,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 34.56,
                 "precio_promedio_usd": 49.68,
@@ -1223,7 +1223,7 @@
         "país": "Switzerland",
         "capital": "Bern",
         "población": 8654622,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 25.92,
                 "precio_promedio_usd": 37.8,
@@ -1252,7 +1252,7 @@
         "país": "Ukraine",
         "capital": "Kyiv",
         "población": 41415000,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 36.72,
                 "precio_promedio_usd": 52.92,
@@ -1281,7 +1281,7 @@
         "país": "United Kingdom",
         "capital": "London",
         "población": 67215293,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24.84,
                 "precio_promedio_usd": 35.64,
@@ -1310,7 +1310,7 @@
         "país": "Vatican City",
         "capital": "Vatican City",
         "población": 825,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 54.0,
                 "precio_promedio_usd": 77.76,

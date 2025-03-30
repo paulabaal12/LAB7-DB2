@@ -5,7 +5,7 @@
         "país": "China",
         "capital": "Pekín",
         "población": 1402112000,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 41,
@@ -34,7 +34,7 @@
         "país": "India",
         "capital": "Nueva Delhi",
         "población": 1380004385,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 49,
                 "precio_promedio_usd": 70,
@@ -63,7 +63,7 @@
         "país": "Japón",
         "capital": "Tokio",
         "población": 126476461,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 14,
                 "precio_promedio_usd": 20,
@@ -92,7 +92,7 @@
         "país": "Corea del Sur",
         "capital": "Seúl",
         "población": 51269185,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24,
                 "precio_promedio_usd": 35,
@@ -121,7 +121,7 @@
         "país": "Indonesia",
         "capital": "Yakarta",
         "población": 273523615,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 40,
@@ -150,7 +150,7 @@
         "país": "Tailandia",
         "capital": "Bangkok",
         "población": 69799978,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 24,
                 "precio_promedio_usd": 35,
@@ -179,7 +179,7 @@
         "país": "Vietnam",
         "capital": "Hanói",
         "población": 97338579,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 49,
                 "precio_promedio_usd": 70,
@@ -208,7 +208,7 @@
         "país": "Filipinas",
         "capital": "Manila",
         "población": 109581078,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 19,
                 "precio_promedio_usd": 28,
@@ -237,7 +237,7 @@
         "país": "Malasia",
         "capital": "Kuala Lumpur",
         "población": 32365999,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 25,
                 "precio_promedio_usd": 36,
@@ -266,7 +266,7 @@
         "país": "Singapur",
         "capital": "Singapur",
         "población": 5850342,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 33,
                 "precio_promedio_usd": 48,
@@ -295,7 +295,7 @@
         "país": "Pakistán",
         "capital": "Islamabad",
         "población": 220892340,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 16,
                 "precio_promedio_usd": 23,
@@ -324,7 +324,7 @@
         "país": "Bangladés",
         "capital": "Daca",
         "población": 164689383,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 39,
                 "precio_promedio_usd": 56,
@@ -353,7 +353,7 @@
         "país": "Kazajistán",
         "capital": "Nursultán",
         "población": 18776707,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 35,
                 "precio_promedio_usd": 50,
@@ -382,7 +382,7 @@
         "país": "Uzbekistán",
         "capital": "Taskent",
         "población": 33469203,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 23,
                 "precio_promedio_usd": 33,
@@ -411,7 +411,7 @@
         "país": "Arabia Saudita",
         "capital": "Riad",
         "población": 34813871,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 22,
                 "precio_promedio_usd": 32,
@@ -440,7 +440,7 @@
         "país": "Israel",
         "capital": "Jerusalén",
         "población": 8655535,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 48,
                 "precio_promedio_usd": 69,
@@ -469,7 +469,7 @@
         "país": "Irán",
         "capital": "Teherán",
         "población": 83992949,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 11,
                 "precio_promedio_usd": 16,
@@ -498,7 +498,7 @@
         "país": "Jordania",
         "capital": "Amán",
         "población": 10203134,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 26,
                 "precio_promedio_usd": 38,
@@ -527,7 +527,7 @@
         "país": "Turquía",
         "capital": "Ankara",
         "población": 84339067,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 28,
                 "precio_promedio_usd": 40,
@@ -556,7 +556,7 @@
         "país": "Nepal",
         "capital": "Katmandú",
         "población": 29136808,
-        "costos_diarios_estimados_en_dólares": {
+        "costos_diarios_estimados_en_dolares": {
             "hospedaje": {
                 "precio_bajo_usd": 10,
                 "precio_promedio_usd": 15,
