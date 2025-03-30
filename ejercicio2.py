@@ -227,8 +227,10 @@ def extract_from_mongodb():
             precios_df.rename(columns={'país': 'pais'}, inplace=True)
 
         # Imprimir estructuras para depuración
-        print("Estructura de turismo_df:", turismo_df.head())
-        print("Estructura de precios_df:", precios_df.head())
+        print("Estructura de turismo_df \n")
+        print(turismo_df.head())
+        print("Estructura de precios_df\n")
+        print(precios_df.head())
 
         # Fusionar
         if not turismo_df.empty and not precios_df.empty:
