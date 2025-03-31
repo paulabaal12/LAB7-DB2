@@ -68,7 +68,7 @@ def main():
 def extract_from_sql():
     try:
         # Configurar conexión a la base de datos PostgreSQL
-        sql_connection_string = "postgresql+psycopg2://postgres:resusan120104@localhost:5432/lab07?client_encoding=utf8"
+        sql_connection_string = "postgresql+psycopg2://postgres:contraseña@localhost:5432/lab07?client_encoding=utf8"
         sql_engine = create_engine(sql_connection_string)
         
         # Primero, inspeccionemos los nombres de las columnas en ambas tablas
@@ -587,7 +587,7 @@ def load_to_data_warehouse(integrated_df):
         print(f"Datos exportados a CSV: {csv_path}")
         
         # data warehouse
-        warehouse_connection = "postgresql+psycopg2://postgres:resusan120104@localhost:5432/lab07?client_encoding=utf8"
+        warehouse_connection = "postgresql+psycopg2://postgres:contraseña@localhost:5432/lab07?client_encoding=utf8"
         warehouse_engine = create_engine(warehouse_connection)
         target_table = "paises_datos_integrados"
         
@@ -753,7 +753,7 @@ def generate_insights(integrated_df):
 def create_and_load_tables_from_csv():
     try:
         # Configurar conexión a PostgreSQL
-        warehouse_connection = "postgresql+psycopg2://postgres:resusan120104@localhost:5432/lab07?client_encoding=utf8"
+        warehouse_connection = "postgresql+psycopg2://postgres:contraseña@localhost:5432/lab07?client_encoding=utf8"
         warehouse_engine = create_engine(warehouse_connection)
 
         # Archivos CSV y nombres de tablas
@@ -777,7 +777,7 @@ def create_and_load_tables_from_csv():
 def check_source_data_for_nulls():
     try:
     
-        sql_connection_string = "postgresql+psycopg2://postgres:resusan120104@localhost:5432/lab07?client_encoding=utf8"
+        sql_connection_string = "postgresql+psycopg2://postgres:contraseña@localhost:5432/lab07?client_encoding=utf8"
         sql_engine = create_engine(sql_connection_string)
         
         with sql_engine.connect() as connection:
